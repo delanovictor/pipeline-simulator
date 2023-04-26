@@ -1,5 +1,8 @@
-Para rodar:
+#Para executar:
 
+```
 npm i
 
 npm run dev
+
+```
